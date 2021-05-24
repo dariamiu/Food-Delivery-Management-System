@@ -1,0 +1,6 @@
+ORDER : 21
+CLIENT : 2
+DATE&TIME : 24/05/2021 08:04
+Pan-Seared Steak with Mushroom-Merlot Sauce 
+Ecuadoran Tamarillo Salsa 
+PRICE : 96

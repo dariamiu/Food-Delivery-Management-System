@@ -1,0 +1,11 @@
+            id order            id client                 date                                                                                             products                price 
+                   9                    2     23/05/2021 06:59               Grilled Chicken Moroccan Style ,Lobster with Roasted Garlic-Potato Salad and Coleslaw                    93 
+
+                   7                    2     23/05/2021 06:27                                                                    Chicken with Coconut Curry Sauce                    39 
+
+                  10                    2     23/05/2021 06:59               Grilled Chicken Moroccan Style ,Lobster with Roasted Garlic-Potato Salad and Coleslaw                    93 
+
+                  18                    2     24/05/2021 06:48                                   Scallop and Shrimp Creole ,Grilled Pork Sausages with Spiced Figs                    81 
+
+                   8                    2     23/05/2021 06:27                                                                    Chicken with Coconut Curry Sauce                    39 
+
