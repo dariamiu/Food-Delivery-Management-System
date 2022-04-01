@@ -1,0 +1,6 @@
+ORDER : 26
+CLIENT : 2
+DATE&TIME : 25/05/2021 11:14
+Thai Spices Shrimp Salad with Asian Greens and Pesto Dressing 
+Catfish with Green Olives 
+PRICE : 114

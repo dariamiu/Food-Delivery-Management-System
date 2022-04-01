@@ -1,0 +1,6 @@
+ORDER : 28
+CLIENT : 11
+DATE&TIME : 28/01/2022 08:46
+Candied-Fruit Pastry Cream 
+Scallops with Tarragon Cream and Wilted Butter Lettuce 
+PRICE : 68

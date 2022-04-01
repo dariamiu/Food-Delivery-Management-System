@@ -1,0 +1,6 @@
+ORDER : 27
+CLIENT : 11
+DATE&TIME : 28/01/2022 08:45
+Sweet and Sour Pickles 
+Persimmon Cake with Cream Cheese Icing 
+PRICE : 51
